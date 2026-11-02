@@ -10,9 +10,9 @@ Version actuelle : **1.4.2**. Cliquez sur un fichier pour le télécharger.
 | Fichier | Contenu |
 |---|---|
 | **[el-hakim-pro-setup.exe](https://github.com/yacami/el-hakim-pro-releases/releases/latest/download/el-hakim-pro-setup.exe)** | Programme d'installation (première installation ou mise à jour) |
-| [EL-HAKIM-PRO-Guide-Installation-v1.4.1.pdf](https://github.com/yacami/el-hakim-pro-releases/releases/latest/download/EL-HAKIM-PRO-Guide-Installation-v1.4.1.pdf) | Guide d'installation et de configuration |
-| [EL-HAKIM-PRO-Guide-Utilisation-v1.4.1.pdf](https://github.com/yacami/el-hakim-pro-releases/releases/latest/download/EL-HAKIM-PRO-Guide-Utilisation-v1.4.1.pdf) | Guide d'utilisation |
-| [EL-HAKIM-PRO-Demarrage-Rapide-v1.4.1.pdf](https://github.com/yacami/el-hakim-pro-releases/releases/latest/download/EL-HAKIM-PRO-Demarrage-Rapide-v1.4.1.pdf) | Démarrage rapide (2 pages à imprimer) |
+| [EL-HAKIM-PRO-Guide-Installation.pdf](https://github.com/yacami/el-hakim-pro-releases/releases/latest/download/EL-HAKIM-PRO-Guide-Installation.pdf) | Guide d'installation et de configuration |
+| [EL-HAKIM-PRO-Guide-Utilisation.pdf](https://github.com/yacami/el-hakim-pro-releases/releases/latest/download/EL-HAKIM-PRO-Guide-Utilisation.pdf) | Guide d'utilisation |
+| [EL-HAKIM-PRO-Demarrage-Rapide.pdf](https://github.com/yacami/el-hakim-pro-releases/releases/latest/download/EL-HAKIM-PRO-Demarrage-Rapide.pdf) | Démarrage rapide (2 pages à imprimer) |
 | [nomenclature-medicaments-juin-2026.xlsx](https://github.com/yacami/el-hakim-pro-releases/releases/latest/download/nomenclature-medicaments-juin-2026.xlsx) | Nomenclature nationale des médicaments (juin 2026), à importer dans EL-HAKIM PRO |
 | [logos-specialites.rar](https://github.com/yacami/el-hakim-pro-releases/releases/latest/download/logos-specialites.rar) | Logos de spécialités (16 images) pour l'en-tête des documents |
 | [guide-courbes-de-croissance.docx](https://github.com/yacami/el-hakim-pro-releases/releases/latest/download/guide-courbes-de-croissance.docx) | Guide du module Courbes de croissance |
