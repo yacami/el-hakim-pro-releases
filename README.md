@@ -5,7 +5,7 @@ Cette page sert uniquement à télécharger le programme et ses fichiers. Elle n
 
 ## Télécharger
 
-Version actuelle : **1.4.4**. Cliquez sur un fichier pour le télécharger.
+Version actuelle : **1.4.5**. Cliquez sur un fichier pour le télécharger.
 
 | Fichier | Contenu |
 |---|---|
